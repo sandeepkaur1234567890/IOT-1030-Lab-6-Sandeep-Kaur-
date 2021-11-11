@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\bin\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.exe
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\bin\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.deps.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\bin\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.runtimeconfig.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\bin\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.runtimeconfig.dev.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\bin\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\bin\Debug\net5.0\ref\IOT 1030 Lab 6 Sandeep Kaur.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\bin\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.pdb
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\obj\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.csprojAssemblyReference.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\obj\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\obj\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\obj\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.AssemblyInfo.cs
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\obj\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\obj\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\obj\Debug\net5.0\ref\IOT 1030 Lab 6 Sandeep Kaur.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\obj\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.pdb
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Lab-6-Sandeep-Kaur-\IOT 1030 Lab 6 Sandeep Kaur\obj\Debug\net5.0\IOT 1030 Lab 6 Sandeep Kaur.genruntimeconfig.cache
