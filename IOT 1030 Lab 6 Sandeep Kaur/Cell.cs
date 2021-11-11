@@ -46,7 +46,11 @@ namespace Psim.ModelComponents
 			}
 		}
 
-		public void SetEmitSurface(SurfaceLocation location, double temp)
+        public Cell(double length, double width, double sensorID) : base(length, width)
+        {
+        }
+
+        public void SetEmitSurface(SurfaceLocation location, double temp)
 		{
 			// Thanks Josh
 			surfaces[(int)location] = new EmitSurface(location, this, temp);

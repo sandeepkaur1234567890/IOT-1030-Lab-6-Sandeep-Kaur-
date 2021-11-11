@@ -32,7 +32,7 @@ namespace Psim
 				model.AddCell(i, i, 10);
             }
 			model.SetSurface(300);
-			model.SetemitPhonons(300, 1, 5e, 9);
+			model.SetemitPhonons(300, 1, 5e-9);
 			Console.WriteLine(model);
 
 			// Test the AddSensor, AddCell and SetSurfaces implementations. 

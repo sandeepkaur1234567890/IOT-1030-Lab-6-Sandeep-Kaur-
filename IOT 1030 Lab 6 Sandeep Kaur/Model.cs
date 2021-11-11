@@ -27,7 +27,9 @@ namespace Psim
 		private readonly double simTime;
 		private readonly double tEq;
 
-		public Model(Material material, double highTemp, double lowTemp, double simTime)
+        public List<Sensor> sensorsID { get; private set; }
+
+        public Model(Material material, double highTemp, double lowTemp, double simTime)
 		{
 			this.material = material;
 			this.highTemp = highTemp;
@@ -38,35 +40,58 @@ namespace Psim
 
 		// TODO: Write a method to add a sensor to the model
 		// TODO: Write a method to add a cell to the model
-		public void AddSensor(int SensorID, double intiTemp)
+		public void AddSensor(int sensorID, double initTemp)
         {
-
-        }
+			List<Sensor> sensor = new List<Sensor>();
+			if (sensor == sensorsID)
+			{
+				throw new NotImplementedException();
+			}
+			else
+			{
+				sensors.Add(new Sensor(sensorID, material, initTemp));
+			}
+		}
 
 		public void AddSensor(double initTemp)
         {
+			int sensorID = 0;
+			sensorID += 1;
+		}
 
-        }
-
-		public void AddCell(double length, double width, int SensorID)
+		public void AddCell(double length, double width, double sensorID)
         {
+			List<Sensor> sensor = new List<Sensor>();
+			if (sensor == sensorsID)
+			{
+				throw new NotImplementedException();
 
-        }
+			}
+			else
+			{
+				cells.Add(new Cell(length, width, sensorID));
+			}
+		}
 		/// <summary>
 		/// Automatically sets all the surfaces in the cells that constitute this model.
 		/// Should be called after all the cells have been added
 		/// </summary>
 		/// <param name="tEq">The equilibrium temperature of the system</param>
-		private void SetSurfaces(double tEq)
+		public void SetSurfaces(double tEq)
 		{
 			// TODO: Implemenent -> Assume that the system is linear!!
 			int numCells = cells.Count;
 			if (numCells < 2)
 			{
 				// throw custom exception
+				throw new NotImplementedException();
+
+			}
+			else
+			{
+				SetSurfaces(tEq);
 			}
 			// Continue with implementation
-			throw new NotImplementedException();
 		}
 
 		/// <summary>
@@ -75,9 +100,10 @@ namespace Psim
 		/// <param name="tEq">System equilibrium temperature</param>
 		/// <param name="effEnergy">Phonon packet effective energy</param>
 		/// <param name="timeStep">Simulation time step</param>
-		private void SetEmitPhonons(double tEq, double effEnergy, double timeStep)
+		public void SetEmitPhonons(double tEq, double effEnergy, double timeStep)
 		{
 			// TODO: Implement -> just need to call the appropriate method in each cell
+			SetEmitPhonons(tEq, effEnergy, timeStep);
 			throw new NotImplementedException();
 		}
 
@@ -88,6 +114,7 @@ namespace Psim
 		private double GetTotalEnergy()
 		{
 			// TODO: Implement -> just need to call the appropriate method in each cell
+			GetTotalEnergy();
 			throw new NotImplementedException();
 		}
 	}
