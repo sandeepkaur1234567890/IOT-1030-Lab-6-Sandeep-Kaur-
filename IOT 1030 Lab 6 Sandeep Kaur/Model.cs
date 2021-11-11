@@ -22,7 +22,18 @@ namespace Psim
 		private Material material;
 		private List<Cell> cells = new() { };
 		private List<Sensor> sensors = new() { };
-		private readonly double highTemp;
+
+        internal void SetemitPhonons(int v1, int v2, double v3)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal void SetSurface(int v)
+        {
+            throw new NotImplementedException();
+        }
+
+        private readonly double highTemp;
 		private readonly double lowTemp;
 		private readonly double simTime;
 		private readonly double tEq;
